@@ -11,15 +11,16 @@ as a filled out template of my-favorite-lists.
 
 ## Setup/Installation Requirements
 
-*Only requires a browser to display the webpage
-*Utilizes .html files and .jpg for pictures.
+* Only requires a browser to display the webpage
+* Utilizes .html files and .jpg for pictures.
 
 ## Known Bugs
 
 _None._
 
 ## Support and contact details
+NA
 
 ## Technologies Used
 
-*HTML only.
+* HTML only.
