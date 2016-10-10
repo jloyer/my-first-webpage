@@ -1,0 +1,19 @@
+img {
+    width: 50%;
+    height: auto;
+}
+
+h1 {
+  color: #05562f;
+  font-family: fantasy;
+  font-size: 45px;
+  line-height: 10px;
+}
+
+h2{
+  color: #074728;
+  font-family:fantasy;
+  font-size: 20px;
+  line-height: 5px;
+  font-weight: lighter;
+}
